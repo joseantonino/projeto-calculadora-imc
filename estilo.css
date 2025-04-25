@@ -56,7 +56,7 @@ main   {
     border: none;
     outline: 0;
     font: bold 1.5rem serif;
-    align-items: center;
+    text-align: center;
 }
 
 
@@ -72,7 +72,7 @@ button   {
     background: #000;
     color: rgb(255, 198, 0);
     outline: none;
-    cursor: pointer;
+    cursor: pointer;    
 }
 
 
@@ -84,12 +84,11 @@ button   {
     width: 300px;
     height: 150px;
     border-radius: 5px;
-    font: italic 1.5rem serif;
-    box-shadow: 0px 0px 10px black;
+    font: italic 1.5rem serif;    
     background: #000;
     color: rgb(255, 198, 0);
     padding: 20px;
-    box-sizing: border-box;
+    box-sizing: border-box;    
 }
 
 
