@@ -20,7 +20,7 @@ main   {
     display: flex;
     flex-direction: column;
     background:  rgb(255, 198, 0);
-    width: 400px;
+    width: 350px;
     height: 530px;
     align-items: center;
     justify-content: space-evenly;
